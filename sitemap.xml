@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>/typography/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/code/</loc>
+  </url>
+  
+  <url>
+    <loc>/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/muniftanjim/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/config/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/og/</loc>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>

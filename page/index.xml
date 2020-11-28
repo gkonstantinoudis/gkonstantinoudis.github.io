@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Garyfallos Konstantinoudis</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Garyfallos Konstantinoudis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typography</title>
+      <link>/typography/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>/typography/</guid>
+      <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Heading 4  First item Second item   Nested unordered item  Third item Nested ordered item 1 Nested ordered item 2  Heading 5 Where are the quotes!</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>I am an MRC Skills Development Research Fellow at the Department of Epidemiology and Biostatistics, part of the MRC Centre for Environment and Health at Imperial College London. My group is the Environmental and Health Statistics group headed by Prof Marta Blangiardo.
+Prior to that, I did my PhD in Biostatistics and Epidemiology at the Institute of Social and Preventive Medicine (ISPM) at the University of Bern in Switzerland in the Environmental and Spatial Epidemiology group headed by Dr Ben Spycher.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Grants  Evaluating the burden of climate-related respiratory disease using high resolution spatiotemporal models (2019-2021)
+ Residential and occupational exposure to ultraviolet radiation and hematological malignancies (2019-2020)
+ Low dose ionising radiation and childhood cancer (2018-2021)
+   Research COVID-19 and air-pollution In this research, I am developping spatial Bayesian hierarchical model to quantify the effect of long term exposure to air-pollution, namely NO\(_2\) and PM\(_{2.5}\) on COVID-19 mortality.</description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code/</guid>
+      <description>I have written the following R-package:
+GeoSwiss Tools for geocoding address in Switzerland. The package takes addresses as strings and uses two different data bases, google maps and Swiss topo (Swiss Federal Office of Topography) Switzerland&amp;rsquo;s national mapping agency and return the corresponding geocodes. The geocodes are directly transformed into the Swiss grid for coordinates and also come with a precision metric that gives a qualitative assessment of the precision of the geocode.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>NIMBLE tutorials All the code and datasets used for the tutorial can be also found here.
+ Conditional Autoregressive models with NIMBLE.  In this tutorial I use the famours Scottish lip cancer dataset and provide 4 different approaches for disease mapping. I start with a basic global smoothing by incorporating unstructured random effect, then I show how to fit an ICAR, I continue showwing a BYM model and finally I show how to fit the BYM2 in NIMBLE.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talks/</guid>
+      <description>Hereby you can find my slides for 5 selected talks.
+[2020]
+ Long-term exposure to air-pollution and COVID-19 mortality in England: a hierarchical spatial analysis. JSM Virtual conference. (Invited speaker)  [2019]
+ Discrete and continuous domain models for disease mapping and applications on childhood cancers. ISI World Statistics Congress. Kuala Lumpur, Malaysia 2019. (Invited speaker)  [2018]
+ Towards continuous domain models in Spatial Epidemiology. International Society of Environmental Epidemiology.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>[2020]
+Konstantinoudis G, Padellini T, Bennett JE, Davies B, Ezzati M, Blangiardo M. Long-term exposure to air-pollution and COVID-19 mortality in England: a hierarchical spatial analysis. medRxiv (2020). https://doi.org/10.1101/2020.08.10.20171421
+Folly CL, Konstantinoudis G, Mazzei-Abba A, Kreis C, Bucher B, Furrer R, Spycher BD. Bayesian spatial modelling of terrestrial radiation in Switzerland. arXiv preprint (2020). https://arxiv.org/abs/2010.00534.
+Hauser A, Counotte MJ, Margossian CC, Konstantinoudis G, Low N, Althaus CL, Riou J. Estimation of SARS-CoV-2 mortality during the early stages of an epidemic: A modeling study in Hubei, China, and six regions in Europe.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

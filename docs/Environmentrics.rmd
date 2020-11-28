@@ -1,0 +1,13 @@
+---
+date: 2021-11-05T23:30:00+06:00
+title: "Virtual TIES"
+authors: 
+output: md_document
+---
+
+
+<p align="center">
+  <img src="/images/environmetrics.png" width="650">
+</p>
+
+I have been invited to give a talk at the [TIES 2020 virtual conference](http://www.environmetrics.org/virtual_conference_2020.html). My talk will be about the use of Bayesian spatial hierarchical models and downscaling. I will use the proposed scheme to quantify the long-term effect of air-pollution on COVID-19 mortality. My talk will be on the 2nd of December at 10.50am UK time. For more information about the program see [here](http://environmetrics.org/vc2020_program.html).

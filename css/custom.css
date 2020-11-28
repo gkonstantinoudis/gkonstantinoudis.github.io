@@ -51,7 +51,7 @@ ol {
 
 
 p a:link { 
-  color: #76B7C7; 
+  color: #06717C; 
   border-bottom: 0px solid #05474D;
 }
 p a:visited {
@@ -64,7 +64,7 @@ p a:hover {
 } 
 
 ul a:link { 
-  color: #76B7C7; 
+  color: #06717C; 
   border-bottom: 0px solid #05474D;
 }
 ul a:visited {
@@ -77,7 +77,7 @@ ul a:hover {
 } 
 
 ol a:link { 
-  color: #76B7C7; 
+  color: #06717C; 
   border-bottom: 0px solid #05474D;
 }
 ol a:visited {
@@ -91,14 +91,27 @@ ol a:hover {
 
 
 h2 a:link { 
-  color: #76B7C7; 
+  color: #05474D; 
   border-bottom: 0px solid #05474D;
 }
 h2 a:visited {
-  color: #06717C;
+  color: #05474D;
   border-bottom: 0px solid #b3b3b3;
 }
 h2 a:hover {
   color: #05474D;
   border-bottom: 1px solid #05474D;
+} 
+
+nav a:link { 
+  color: #05474D; 
+  border-bottom: 0px solid #05474D;
+}
+nav a:visited {
+  color: #05474D;
+  border-bottom: 0px solid #b3b3b3;
+}
+nav a:hover {
+  color: #05474D;
+  border-bottom: 0px solid #05474D;
 } 

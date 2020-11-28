@@ -6,17 +6,8 @@ weight: 2
 output: md_document
 ---
 
-## Grants 
 
-* Evaluating the burden of climate-related respiratory disease using high resolution spatiotemporal models (2019-2021) 
-
-* Residential and occupational exposure to ultraviolet radiation and hematological malignancies (2019-2020)
-
-* Low dose ionising radiation and childhood cancer (2018-2021)
-
-## Research
-
-### COVID-19 and air-pollution
+#### COVID-19 and air-pollution
 In this research, I am developping spatial Bayesian hierarchical model to quantify the effect of long term exposure to air-pollution, namely NO$_2$ and PM$_{2.5}$ on COVID-19 mortality. The first analysis showed that for every 1$\mu g/m^3$ increase in the long term averaged NO$_2$ exposure the COVID-19 mortality increases by 0.5% (95% credible interval: -0.2%, 1.2%), whereas the results for PM$_{2.5}$ are more uncertain 1.4% (-2.1%, 5.1%). Currently we are working on including known comorbidities, such as chronic obstructive pulmonary disease and diabetes and examine the mediation effect.
 
 <p align="center">
@@ -24,7 +15,7 @@ In this research, I am developping spatial Bayesian hierarchical model to quanti
 </p>
  
 
-### Evaluating the burden of climate-related respiratory disease using high resolution spatiotemporal models 
+#### Evaluating the burden of climate-related respiratory disease using high resolution spatiotemporal models 
 
 In this research, I will develop a framework of analysis using spatiotemporal models to evaluate climate-related disease burden. The methodology of this project builds on Bayesian spatiotemporal models for risk assessment and quantification of associated economic costs, hence model and parameter uncertainty will be naturally propagated across the proposed framework. I will use this approach to estimate the temperature-related respiratory health burden in the UK and communicate results to stakeholders and public health experts to implement relevant public health strategies. This is an interdisciplenariy project with several national and international collaborations including Prof Blangiardo (main supervisor), Prof Baio and Dr Mineli (co-supervisors) but also with Dr Gasparrini, Prof Schuhmacher, Dr Bhatt, Dr Ballester and Dr Vicedo-Cabrera.
 
@@ -34,12 +25,19 @@ In this research, I will develop a framework of analysis using spatiotemporal mo
 
 <br>
 
-### Analysis of spatial clustering of childhood cancers
+#### Analysis of spatial clustering of childhood cancers
 
 My thesis was entitled "Analysis of spatial clustering of childhood cancers" and it was the first systematic investigation of the spatial clustering of childhood cancers in Switzerland. The first part of my PhD was focused on global clustering and cluster detection, whereas the second part on disease mapping and spatial regression. During the second part of my PhD I gained expertise on models commonly used in spatial epidemiology, like log-Gaussian Cox processes and the Besag-York-Mollie model. 
-
 
 <p align="center">
   <img src="/images/CNStumours.png" width="350" title = "Childhood CNS tumours">
 </p>
+
+#### Grants 
+
+* Evaluating the burden of climate-related respiratory disease using high resolution spatiotemporal models (2019-2021) 
+
+* Residential and occupational exposure to ultraviolet radiation and hematological malignancies (2019-2020)
+
+* Low dose ionising radiation and childhood cancer (2018-2021)
 

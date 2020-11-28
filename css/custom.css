@@ -22,26 +22,26 @@ body {
 } 
 
 p {
-  font-size : 19px;
+  font-size : 18px;
   font-weight: 400;
   font-family: Geneva;
 }
 
 ul {
-  font-size : 19px;
+  font-size : 18px;
   font-weight: 500;
   font-family: Geneva;
 }
 
 ol {
-  font-size: 19px;
+  font-size: 18px;
   font-weight: 500;
   font-family: Geneva;
 }
 
 .main-menu li {
     display: inline-block;
-    font-size: 1.3em;
+    font-size: 1.12em;
     font-weight: bolder;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
     font-weight: 700;
@@ -90,15 +90,15 @@ ol a:hover {
 } 
 
 
-h2 a:link { 
+h4 a:link { 
   color: #05474D; 
   border-bottom: 0px solid #05474D;
 }
-h2 a:visited {
+h4 a:visited {
   color: #05474D;
   border-bottom: 0px solid #b3b3b3;
 }
-h2 a:hover {
+h4 a:hover {
   color: #05474D;
   border-bottom: 1px solid #05474D;
 } 

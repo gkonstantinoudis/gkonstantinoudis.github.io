@@ -1,12 +1,14 @@
 ---
 title: Home
+menu: 
+  main:
 weight: -1
 output: md_document
 --- 
    
-# About
+##### About
 
-<img style="float: right; padding-left: 7%; padding-bottom: 7%; padding-top: 7%;" src="/images/me2.png" width="330"/>
+<img style="float: right; padding-left: 7%; padding-bottom: 7%; padding-top: 5%;" src="/images/me2.png" width="330"/>
  
 I am an MRC Skills Development Research Fellow at the Department of Epidemiology and Biostatistics, part of the [MRC Centre for Environment and Health](https://www.environment-health.ac.uk/) at Imperial College London. My group is the [Environmental and Health Statistics group](https://sites.google.com/view/envstats/home) headed by [Prof Marta Blangiardo](https://www.imperial.ac.uk/people/m.blangiardo). 
 
@@ -14,6 +16,8 @@ Before that, Ι did my PhD in Biostatistics and Epidemiology at the [Institute o
 
 
 My current domain of research is on Bayesian spatiotemporal models using exact point data. I combine the aforementioned modelling framework with health economics to investigate the climate related respiratory disease burden in the England. This project is a collaboration with [Prof Gianluca Baio](http://www.statistica.it/gianluca/) at UCL, [Dr Cosetta Minelli](https://www.imperial.ac.uk/people/cosetta.minelli1) at Imperial College, [Dr Antonio Gasparrini](http://www.ag-myresearch.com/) at LSHTP, [Dr Ana Vicedo-Cabrera](https://www.ispm.unibe.ch/about_us/staff/vicedo_cabrera_ana_maria/index_eng.html) at ISPM University of Bern, [Prof Dominic Schuhmacher](http://www.dominic.schuhmacher.name/) at University of Gottingen, [Dr Samir Bhatt](https://www.imperial.ac.uk/people/s.bhatt) at Imperial College and [Dr Joan Ballester](http://www.joanballester.eu/contact.html) at ISGlobal.
+
+<br>
 
 ##### Education
 

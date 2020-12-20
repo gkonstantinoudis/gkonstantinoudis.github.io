@@ -1,0 +1,16 @@
+---
+date: 2021-11-05T23:30:00+06:00
+title: "COVID19 & airpollution"
+authors: 
+output: md_document
+draft: false
+---
+
+Our recent study in assessing the effect of long term exposure to airpollution on COVID-19 morality have just been published in Environment International, you can check it [here](https://www.sciencedirect.com/science/article/pii/S0160412020322716). We found some evidence of an increased COVID-19 mortality for long term exposure to NO$_2$ (0.5% 95% CrI: -0.2% to 1.2%), whereas for PM$_{2.5}$ the results are more uncertain (1.4% 95% CrI: -2.1% to 5.1%).
+
+<p align="center">
+  <img src="/images/airpolCOVID.png" width="450">
+</p>
+
+
+**Konstantinoudis G**,  Padellini T, Bennett JE, Davies B, Ezzati M, Blangiardo M. Long-term exposure to air-pollution and COVID-19 mortality in England: a hierarchical spatial analysis. Environmental International (2020). [https://doi.org/10.1016/j.envint.2020.106316](https://doi.org/10.1016/j.envint.2020.106316).

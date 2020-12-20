@@ -2,18 +2,16 @@
 <html lang='en' dir='auto'><head>
   <meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-<meta name='description' content='NIMBLE tutorials All the code and datasets used for the tutorial can be also found here.
- Conditional Autoregressive models with NIMBLE.  In this tutorial I use the famours Scottish lip cancer dataset and provide 4 different approaches for disease mapping. I start with a basic global smoothing by incorporating unstructured random effect, then I show how to fit an ICAR, I continue showwing a BYM model and finally I show how to fit the BYM2 in NIMBLE.'>
+<meta name='description' content=''>
 <meta name='theme-color' content='#556573'>
 
 <meta property='og:title' content='Teaching • Garyfallos Konstantinoudis'>
-<meta property='og:description' content='NIMBLE tutorials All the code and datasets used for the tutorial can be also found here.
- Conditional Autoregressive models with NIMBLE.  In this tutorial I use the famours Scottish lip cancer dataset and provide 4 different approaches for disease mapping. I start with a basic global smoothing by incorporating unstructured random effect, then I show how to fit an ICAR, I continue showwing a BYM model and finally I show how to fit the BYM2 in NIMBLE.'>
+<meta property='og:description' content=''>
 <meta property='og:url' content='/teaching/'>
 <meta property='og:site_name' content='Garyfallos Konstantinoudis'>
 <meta property='og:type' content='article'><meta property='article:section' content='page'><meta name='twitter:card' content='summary'>
 
-<meta name="generator" content="Hugo 0.78.2" />
+<meta name="generator" content="Hugo 0.79.1" />
 
   <title>Teaching • Garyfallos Konstantinoudis</title>
   <link rel='canonical' href='/teaching/'>
@@ -148,8 +146,8 @@ if (!doNotTrack) {
         <a href='/research/'>Research</a>
       </li><li class='item'>
         <a href='/code/'>Code</a>
-      </li><li class='item current'>
-        <a aria-current='page' href='/teaching/'>Teaching</a>
+      </li><li class='item'>
+        <a href='/teaching/'>Teaching</a>
       </li><li class='item'>
         <a href='/talks/'>Talks</a>
       </li><li class='item'>
@@ -209,6 +207,52 @@ if (!doNotTrack) {
     
 
 <div class='container entry-content'>
+  
+</div>
+
+
+  
+
+</article>
+
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'><div class='copyright'>
+  <p> &copy; 2020 Garyfallos Konstantinoudis </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><script>window.__assets_js_src="/assets/js/"</script>
+
+<script src='/assets/js/main.c3bcf2df.js'></script><script src='/js/custom.js'></script>
+
+</body>
+
+</html>
+
+displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        // Center justify equations in code and markdown cells. Elsewhere
+        // we use CSS to left justify single line equations in code cells.
+        displayAlign: 'center',
+        "HTML-CSS": {
+            styles: {'.MathJax_Display': {"margin": 0}},
+            linebreaks: { automatic: true }
+        }
+    });
+    </script>
+    
+
+<div class='container entry-content'>
   <h4 id="nimble-tutorials">NIMBLE tutorials</h4>
 <p>All the code and datasets used for the tutorial can be also found <a href="https://github.com/gkonstantinoudis/SpatialModelsNIMBLE">here</a>.</p>
 <ol>
@@ -219,6 +263,14 @@ if (!doNotTrack) {
 <li><a href="/nimble/COVID19regression.html">Spatial ecological regression with NIMBLE.</a></li>
 </ol>
 <p>This tutorial is motivated by an analysis I conducted to examine the effect of long-term exposure to air-pollution on COVID-19 mortality. The purpose of this tutorial is to show how to use NIMBLE to perform ecological regression and also interpret the results. I am using the BYM2 prior to capture spatial autocorrelation.</p>
+<ol start="3">
+<li><a href="/nimble/RmarkLeroux.html">Leroux model in NIMBLE and CARBayes.</a></li>
+</ol>
+<p>This tutorial compares the Leroux model using CARBayes and NIMBLE. It uses the Scottish lip cancer as a case study, shows the code for both approaches and makes relevant comparison for the random fields and hyperparameters accross the different softwares.</p>
+<ol start="4">
+<li><a href="/nimble/splines.html">Splines and random walk processes in NIMBLE.</a></li>
+</ol>
+<p>In this tutorial, I am showing how to fit splines and random walk processes using NIMBLE. In particular, it shows code for cubic splines and random walks of order 1 and 2. The case example is the chicago dataset to assess the effect of temperature on all cause mortality in Chicago, as used in the vignette of dlnn by Gasparrini.</p>
 <h4 id="inla-tutorials">INLA tutorials</h4>
 <p>All the code and datasets used for the tutorial can be also found <a href="https://github.com/gkonstantinoudis/INLA-mapping">here</a>.</p>
 <ol>

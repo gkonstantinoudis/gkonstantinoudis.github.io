@@ -4,6 +4,26 @@
     <title>Recent posts on Garyfallos Konstantinoudis</title>
     <link>/docs/</link>
     <description>Recent content in Recent posts on Garyfallos Konstantinoudis</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 05 Nov 2021 23:30:00 +0600</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID19 &amp; airpollution</title>
+      <link>/docs/paperpublished/</link>
+      <pubDate>Fri, 05 Nov 2021 23:30:00 +0600</pubDate>
+      
+      <guid>/docs/paperpublished/</guid>
+      <description>Our recent study in assessing the effect of long term exposure to airpollution on COVID-19 morality have just been published in Environment International, you can check it here. We found some evidence of an increased COVID-19 mortality for long term exposure to NO\(_2\) (0.5% 95% CrI: -0.2% to 1.2%), whereas for PM\(_{2.5}\) the results are more uncertain (1.4% 95% CrI: -2.1% to 5.1%).
+Konstantinoudis G, Padellini T, Bennett JE, Davies B, Ezzati M, Blangiardo M.</description>
+    </item>
+    
+    <item>
+      <title>Virtual TIES</title>
+      <link>/docs/environmentrics/</link>
+      <pubDate>Fri, 05 Nov 2021 23:30:00 +0600</pubDate>
+      
+      <guid>/docs/environmentrics/</guid>
+      <description>I have been invited to give a talk at the TIES 2020 virtual conference. My talk will be about the use of Bayesian spatial hierarchical models and downscaling. I will use the proposed scheme to quantify the long-term effect of air-pollution on COVID-19 mortality. My talk will be on the 2nd of December at 10.50am UK time. For more information about the program see here.</description>
+    </item>
+    
   </channel>
 </rss>

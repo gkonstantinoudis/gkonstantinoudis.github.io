@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content in Home on Garyfallos Konstantinoudis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Nov 2021 23:30:00 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typography</title>
       <link>/typography/</link>
@@ -87,6 +87,25 @@ GeoSwiss Tools for geocoding address in Switzerland. The package takes addresses
       <description>[2020]
 Dhokotera TG, Riou J, Bartels L, Rohner E, Chammartin F, Johnson L, Singh E, Olago V, Muchengeti M, Egger M, Bohlius J, Konstantinoudis G (2020). Spatiotemporal modelling and mapping of cervical cancer incidence among HIV positive women in South Africa: A nationwide study. medRxiv. https://doi.org/10.1101/2020.12.21.20248469
 Konstantinoudis G, Padellini T, Bennett JE, Davies B, Ezzati M, Blangiardo M. Long-term exposure to air-pollution and COVID-19 mortality in England: a hierarchical spatial analysis.</description>
+    </item>
+    
+    <item>
+      <title>COVID19 &amp; airpollution</title>
+      <link>/docs/paperpublished/</link>
+      <pubDate>Fri, 05 Nov 2021 23:30:00 +0600</pubDate>
+      
+      <guid>/docs/paperpublished/</guid>
+      <description>Our recent study in assessing the effect of long term exposure to airpollution on COVID-19 morality have just been published in Environment International, you can check it here. We found some evidence of an increased COVID-19 mortality for long term exposure to NO\(_2\) (0.5% 95% CrI: -0.2% to 1.2%), whereas for PM\(_{2.5}\) the results are more uncertain (1.4% 95% CrI: -2.1% to 5.1%).
+Konstantinoudis G, Padellini T, Bennett JE, Davies B, Ezzati M, Blangiardo M.</description>
+    </item>
+    
+    <item>
+      <title>Virtual TIES</title>
+      <link>/docs/environmentrics/</link>
+      <pubDate>Fri, 05 Nov 2021 23:30:00 +0600</pubDate>
+      
+      <guid>/docs/environmentrics/</guid>
+      <description>I have been invited to give a talk at the TIES 2020 virtual conference. My talk will be about the use of Bayesian spatial hierarchical models and downscaling. I will use the proposed scheme to quantify the long-term effect of air-pollution on COVID-19 mortality. My talk will be on the 2nd of December at 10.50am UK time. For more information about the program see here.</description>
     </item>
     
     <item>

@@ -6,9 +6,22 @@ weight: 2
 output: md_document
 ---
 
+#### COPD and heat exposure
+In this research, I developed Bayesian hierarchical models to quantify the effect of heat exposure to COPD hospitalisation during 2007-2018 in England. I used a spatial varying coefficient to identify spatial vulnerabilities of COPD hospitalisation and used factors such as deprivation, urbanicity, mean ambient temperature and green space to explain the observed spatial vulnerabilities. I also calculated the population attributable function and assuming a causal effect, 6 280 (95% CrI 3 441 to 8 993) COPD hospitalisations were attributable to heat exposure. 
+
+<p align="center">
+  <img src="/images/popatrCOPD.png" width="350">
+</p>
+
+#### Regional excess mortality during the 2020 COVID-19 pandemic
+Focusing on 5 European countries, Enlgand, Greece, Italy, Spain and Switzerland, we calculated the excess mortality during the 2020 COVID-19 pandemic at the subnational level. With around 30%, Madrid, Castile-La Mancha, Castile-Leon (Spain) and Lombardia (Italy) were the regions with the highest excess mortality. In England, Greece and Switzerland, the regions most affected were Outer London and the West Midlands (England), Eastern, Western and Central Macedonia (Greece), and Ticino (Switzerland), with 15-20% excess mortality in 2020. 
+
+<p align="center">
+  <img src="/images/COVID19excess.png" width="650">
+</p>
 
 #### COVID-19 and air-pollution
-In this research, I am developping spatial Bayesian hierarchical model to quantify the effect of long term exposure to air-pollution, namely NO$_2$ and PM$_{2.5}$ on COVID-19 mortality. The first analysis showed that for every 1$\mu g/m^3$ increase in the long term averaged NO$_2$ exposure the COVID-19 mortality increases by 0.5% (95% credible interval: -0.2%, 1.2%), whereas the results for PM$_{2.5}$ are more uncertain 1.4% (-2.1%, 5.1%). Currently we are working on including known comorbidities, such as chronic obstructive pulmonary disease and diabetes and examine the mediation effect.
+In this research, I am developing spatial Bayesian hierarchical model to quantify the effect of long term exposure to air-pollution, namely NO$_2$ and PM$_{2.5}$ on COVID-19 mortality. The first analysis showed that for every 1$\mu g/m^3$ increase in the long term averaged NO$_2$ exposure the COVID-19 mortality increases by 0.5% (95% credible interval: -0.2%, 1.2%), whereas the results for PM$_{2.5}$ are more uncertain 1.4% (-2.1%, 5.1%). Currently we are working on including known comorbidities, such as chronic obstructive pulmonary disease and diabetes and examine the mediation effect.
 
 <p align="center">
   <img src="/images/COVID.png" width="650">

@@ -1,0 +1,14 @@
+---
+date: 2022-10-14
+title: "GEOMED presentation"
+authors: 
+output: md_document
+draft: false
+---
+
+I have just uploaded my [slides](/slides/geomed_covid.pdf)) for the invited talk in GEOMED Irvine California 2022. I was giving a talk about a modelling framework I develop, together with some collegues in Swtizerland to dissentagle direct and indirect effects of the COVID-19 pandemic on all-cause mortality. 
+
+
+<p align="center">
+  <img src="/images/popatrCOPD.png width="500">
+</p>

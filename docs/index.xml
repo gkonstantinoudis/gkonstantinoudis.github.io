@@ -5,7 +5,16 @@
     <link>/docs/</link>
     <description>Recent content in Recent posts on Garyfallos Konstantinoudis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Nov 2021 23:30:00 +0600</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New NIMBLE tutorials</title>
+      <link>/docs/newtutorials/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/newtutorials/</guid>
+      <description>I have just uploaded two more NIMBLE tutorials showing how to fit the Leroux model and how to code cubic splines and random walks of order 1 and 2 in NIMBLE. The tutorial are in the teaching tab under the names Leroux model in NIMBLE and CARBayes and Splines and random walk processes in NIMBLE. The are more to come.</description>
+    </item>
+    
     <item>
       <title>COVID19 &amp; airpollution</title>
       <link>/docs/paperpublished/</link>

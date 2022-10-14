@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content in Home on Garyfallos Konstantinoudis</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Nov 2021 23:30:00 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typography</title>
       <link>/typography/</link>
@@ -72,11 +72,10 @@ GeoSwiss Tools for geocoding address in Switzerland. The package takes addresses
       
       <guid>/talks/</guid>
       <description>Hereby you can find my slides for selected talks.
-[2021]
+[2022]
+ Direct and indirect effects of the COVID-19 pandemic on mortality in Switzerland. GEOMED, Irvine California. (Invited speaker)  [2021]
   Warm temperatures and COPD hospitalisations in England: A nationwide case-crossover study during 2007-2018. University of Illinois at Urbana-Champaign. (Invited speaker)
-  Regional excess mortality during the 2020 COVID-19 pandemic: a study of five European countries. Institute for social and preventive medicine, University of Bern. (Invited speaker)
-  [2020]
- Long-term exposure to air-pollution and COVID-19 mortality in England: a hierarchical spatial analysis.</description>
+  Regional excess mortality during the 2020 COVID-19 pandemic: a study of five European countries. Institute for social and preventive medicine, University of Bern.</description>
     </item>
     
     <item>
@@ -85,9 +84,19 @@ GeoSwiss Tools for geocoding address in Switzerland. The package takes addresses
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>[2021]
-Konstantinoudis G, Minelli C, Vicedo Cabrera AM, Ballester J, Gasparrini A, Blangiardo M. Ambient heat exposure and COPD hospitalisations in England: A nationwide case-crossover study during 2007-2018. MedRxiv (2021). https://doi.org/10.1101/2021.10.19.21265213.
-Konstantinoudis G, Cameletti M, Gomez-Rubio V, Leon-Gómez I, Pirani M, Baio G, Larrauri A, Riou J, Egger M, Vineis P, Blangiardo M. Regional excess mortality during the 2020 COVID-19 pandemic: a study of five European countries. MedRxiv (2021). https://doi.org/10.1101/2021.10.18.21264686.</description>
+      <description>[2022]
+Riou J, Hauser A, Fesser A, Althaus CL, Egger M, Konstantinoudis G. Direct and indirect effects of the COVID-19 pandemic on mortality in Switzerland: A population-based study. medRxiv 2022. https://doi.org/10.1101/2022.08.05.22278458.
+Bucyibaruta G, Blangiardo M, Konstantinoudis G. Community-level characteristics of COVID-19 vaccine hesitancy in England: A nationwide cross-sectional study. European Journal of Epidemiology 2022. https://doi.org/10.1007/s10654-022-00905-1.
+Konstantinoudis G, Minelli C, Vicedo-Cabrera AM, Ballester J, Gasparrini A, Blangiardo M. Ambient heat exposure and COPD hospitalisations in England: a nationwide case-crossover study during 2007–2018.</description>
+    </item>
+    
+    <item>
+      <title>New NIMBLE tutorials</title>
+      <link>/docs/newtutorials/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/newtutorials/</guid>
+      <description>I have just uploaded two more NIMBLE tutorials showing how to fit the Leroux model and how to code cubic splines and random walks of order 1 and 2 in NIMBLE. The tutorial are in the teaching tab under the names Leroux model in NIMBLE and CARBayes and Splines and random walk processes in NIMBLE. The are more to come.</description>
     </item>
     
     <item>

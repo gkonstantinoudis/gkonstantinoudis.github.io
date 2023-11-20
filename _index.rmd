@@ -10,13 +10,17 @@ output: md_document
 
 <img style="float: right; padding-left: 7%; padding-bottom: 7%; padding-top: 5%;" src="/images/me2.png" width="330"/>
  
-I am an MRC Skills Development Research Fellow at the Department of Epidemiology and Biostatistics, part of the [MRC Centre for Environment and Health](https://www.environment-health.ac.uk/) at Imperial College London. My group is the [Environmental and Health Statistics group](https://sites.google.com/view/envstats/home) headed by [Prof Marta Blangiardo](https://www.imperial.ac.uk/people/m.blangiardo). 
+I am an Imperial Research College Fellow at [MRC Centre for Environment and Health](https://www.environment-health.ac.uk/) at Imperial College London, working on the impacts of temperature on health and methods for estimating excess mortality. My group is the [Environmental and Health Statistics group](https://sites.google.com/view/envstats/home) headed by [Prof Marta Blangiardo](https://www.imperial.ac.uk/people/m.blangiardo). 
+ 
+Before that, I was an MRC Skills Development Research Fellow at the Department of Epidemiology and Biostatistics, part of the [MRC Centre for Environment and Health](https://www.environment-health.ac.uk/) at Imperial College London. 
 
-Before that, Ι did my PhD in Biostatistics and Epidemiology at the [Institute of Social and Preventive Medicine](https://www.ispm.unibe.ch/) (ISPM) at the University of Bern in Switzerland in the [Environmental and Spatial Epidemiology group](https://www.ispm.unibe.ch/research/research_groups/environmental_and_spatial_epidemiology/index_eng.html) headed by [Dr Ben Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html). Also, I obtained an MSc in Biostatistics at the University of Glasgow and BSc in Mathematics at the Aristotle University of Thessaloniki. 
-
-
-My current domain of research is on Bayesian spatiotemporal models using exact point data. I combine the aforementioned modelling framework with health economics to investigate the climate related respiratory disease burden in the England. This project is a collaboration with [Prof Gianluca Baio](http://www.statistica.it/gianluca/) at UCL, [Dr Cosetta Minelli](https://www.imperial.ac.uk/people/cosetta.minelli1) at Imperial College, [Dr Antonio Gasparrini](http://www.ag-myresearch.com/) at LSHTP, [Dr Ana Vicedo-Cabrera](https://www.ispm.unibe.ch/about_us/staff/vicedo_cabrera_ana_maria/index_eng.html) at ISPM University of Bern, [Prof Dominic Schuhmacher](http://www.dominic.schuhmacher.name/) at University of Gottingen, [Dr Samir Bhatt](https://www.imperial.ac.uk/people/s.bhatt) at Imperial College and [Dr Joan Ballester](http://www.joanballester.eu/contact.html) at ISGlobal.
-
+Ι did my PhD in Biostatistics and Epidemiology at the
+[Institute of Social and Preventive
+Medicine](https://www.ispm.unibe.ch/) (ISPM) at the University of Bern
+in Switzerland in the [Environmental and Spatial Epidemiology group](https://www.ispm.unibe.ch/research/research_groups/environmental_and_spatial_epidemiology/index_eng.html)
+headed by [Dr Ben Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html).
+Also, I obtained an MSc in Biostatistics at the University of Glasgow
+and BSc in Mathematics at the Aristotle University of Thessaloniki.
 <br>
 
 ##### Education

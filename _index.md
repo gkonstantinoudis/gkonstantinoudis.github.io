@@ -1,0 +1,42 @@
+##### About
+
+<img style="float: right; padding-left: 7%; padding-bottom: 7%; padding-top: 5%;" src="/images/me2.png" width="330"/>
+
+I am an Imperial Research College Fellow at [MRC Centre for Environment
+and Health](https://www.environment-health.ac.uk/) at Imperial College
+London, working on the impacts of temperature on health and methods for
+estimating excess mortality. My group is the [Environmental and Health
+Statistics group](https://sites.google.com/view/envstats/home) headed by
+[Prof Marta Blangiardo](https://www.imperial.ac.uk/people/m.blangiardo).
+
+Before that, I was an MRC Skills Development Research Fellow at the
+Department of Epidemiology and Biostatistics, part of the [MRC Centre
+for Environment and Health](https://www.environment-health.ac.uk/) at
+Imperial College London.
+
+Ι did my PhD in Biostatistics and Epidemiology at the [Institute of
+Social and Preventive Medicine](https://www.ispm.unibe.ch/) (ISPM) at
+the University of Bern in Switzerland in the [Environmental and Spatial
+Epidemiology
+group](https://www.ispm.unibe.ch/research/research_groups/environmental_and_spatial_epidemiology/index_eng.html)
+headed by [Dr Ben
+Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html).
+Also, I obtained an MSc in Biostatistics at the University of Glasgow
+and BSc in Mathematics at the Aristotle University of Thessaloniki.
+
+<br>
+
+##### Education
+
+-   **2019** – PhD in Biostatistics and Epidemiology, University of Bern
+-   **2015** – Master in Biostatistics, University of Glasgow
+-   **2012** – Bachelor in Mathematics, Aristotle University of
+    Thessaloniki
+
+##### Research visits
+
+-   **2018** – King Abdullah University of Science and Technology to
+    [Prof Haavard
+    Rue](https://www.kaust.edu.sa/en/study/faculty/haavard-rue)
+-   **2017** – University of Gottingen to [Prof Dominic
+    Schuhmacher](http://www.dominic.schuhmacher.name/)

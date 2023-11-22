@@ -6,6 +6,10 @@ weight: 2
 output: md_document
 ---
 
+#### Estimating the heat-related burden of diabetes and health co-benefits of climate policy
+
+More than 3 million people were living with diabetes in England in 2019, and it is projected that this number will increase over the next 25 years. Through this project, I will calculate number of deaths, hospital admissions and costs to NHS attributable to exposure to higher temperatures among people with diabetes. I will evaluate future costs and number of hospital admissions and deaths using different temperature rise scenarios. I will identify vulnerable groups among people with diabetes, e.g., older, more deprived or exposed to poor air quality, and based on these results, propose targeting these populations through the Heat-Health Warning System and GP consultation during a heat event. Finally, through quantifying these vulnerabilities it is possible to determine the positive effects of policies such as the Ultra-Low Emission Zone in London on mitigating the impact of heat induced hospitalisation and death in people with diabetes. 
+
 #### Direct and indirect effects of the COVID-19 pandemic on mortality in Switzerland
 Assessing the direct (deaths followed a SARS-CoV-2 infection) or indirect (deaths caused or avoided due to our response to tackle the virus) impact of the COVID-19 pandemic on population-level mortality, is challenging but central to gauging the appropriateness of COVID-19 control measures. We Bayesian modelling and found that COVID-19 was directly responsible for an estimated 18,000 deaths during the study period, during which only around 13,000 laboratory-confirmed COVID-19-related deaths were reported. After accounting for laboratory-confirmed COVID-19-related deaths, we estimated approximate 4,000 fewer deaths than expected, suggesting weak evidence of a protective effect of the pandemic measures. This effect primarily concerned younger age groups. Our study has important implications for the ongoing debate about the appropriateness of COVID-19 control measures.  
 

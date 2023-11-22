@@ -3,7 +3,7 @@ title: Research
 menu: 
   main:
 weight: 2
-output: md_document
+output: html_document
 ---
 
 #### Estimating the heat-related burden of diabetes and health co-benefits of climate policy
@@ -14,28 +14,28 @@ More than 3 million people were living with diabetes in England in 2019, and it 
 Assessing the direct (deaths followed a SARS-CoV-2 infection) or indirect (deaths caused or avoided due to our response to tackle the virus) impact of the COVID-19 pandemic on population-level mortality, is challenging but central to gauging the appropriateness of COVID-19 control measures. We Bayesian modelling and found that COVID-19 was directly responsible for an estimated 18,000 deaths during the study period, during which only around 13,000 laboratory-confirmed COVID-19-related deaths were reported. After accounting for laboratory-confirmed COVID-19-related deaths, we estimated approximate 4,000 fewer deaths than expected, suggesting weak evidence of a protective effect of the pandemic measures. This effect primarily concerned younger age groups. Our study has important implications for the ongoing debate about the appropriateness of COVID-19 control measures.  
 
 <p align="center">
-  <img src="/images/corplot.png" width="500">
+  <img src="images/corplot.png" width="500">
 </p>
 
 #### COPD and heat exposure
 In this research, I developed Bayesian hierarchical models to quantify the effect of heat exposure to COPD hospitalisation during 2007-2018 in England. I used a spatial varying coefficient to identify spatial vulnerabilities of COPD hospitalisation and used factors such as deprivation, urbanicity, mean ambient temperature and green space to explain the observed spatial vulnerabilities. I also calculated the population attributable function and assuming a causal effect, 6 280 (95% CrI 3 441 to 8 993) COPD hospitalisations were attributable to heat exposure. 
 
 <p align="center">
-  <img src="/images/popatrCOPD.png" width="350">
+  <img src="images/popatrCOPD.png" width="350">
 </p>
 
 #### Regional excess mortality during the 2020 COVID-19 pandemic
 Focusing on 5 European countries, Enlgand, Greece, Italy, Spain and Switzerland, we calculated the excess mortality during the 2020 COVID-19 pandemic at the subnational level. With around 30%, Madrid, Castile-La Mancha, Castile-Leon (Spain) and Lombardia (Italy) were the regions with the highest excess mortality. In England, Greece and Switzerland, the regions most affected were Outer London and the West Midlands (England), Eastern, Western and Central Macedonia (Greece), and Ticino (Switzerland), with 15-20% excess mortality in 2020. 
 
 <p align="center">
-  <img src="/images/COVID19excess.png" width="650">
+  <img src="images/COVID19excess.png" width="650">
 </p>
 
 #### COVID-19 and air-pollution
 In this research, I am developing spatial Bayesian hierarchical model to quantify the effect of long term exposure to air-pollution, namely NO$_2$ and PM$_{2.5}$ on COVID-19 mortality. The first analysis showed that for every 1$\mu g/m^3$ increase in the long term averaged NO$_2$ exposure the COVID-19 mortality increases by 0.5% (95% credible interval: -0.2%, 1.2%), whereas the results for PM$_{2.5}$ are more uncertain 1.4% (-2.1%, 5.1%). Currently we are working on including known comorbidities, such as chronic obstructive pulmonary disease and diabetes and examine the mediation effect.
 
 <p align="center">
-  <img src="/images/COVID.png" width="650">
+  <img src="images/COVID.png" width="650">
 </p>
  
 
@@ -44,7 +44,7 @@ In this research, I am developing spatial Bayesian hierarchical model to quantif
 In this research, I will develop a framework of analysis using spatiotemporal models to evaluate climate-related disease burden. The methodology of this project builds on Bayesian spatiotemporal models for risk assessment and quantification of associated economic costs, hence model and parameter uncertainty will be naturally propagated across the proposed framework. I will use this approach to estimate the temperature-related respiratory health burden in the UK and communicate results to stakeholders and public health experts to implement relevant public health strategies. This is an interdisciplenariy project with several national and international collaborations including Prof Blangiardo (main supervisor), Prof Baio and Dr Mineli (co-supervisors) but also with Dr Gasparrini, Prof Schuhmacher, Dr Bhatt, Dr Ballester and Dr Vicedo-Cabrera.
 
 <p align="center">
-  <img src="/images/MRCFigPres.png" width="340">
+  <img src="images/MRCFigPres.png" width="340">
 </p>
 
 <br>
@@ -54,7 +54,7 @@ In this research, I will develop a framework of analysis using spatiotemporal mo
 My thesis was entitled "Analysis of spatial clustering of childhood cancers" and it was the first systematic investigation of the spatial clustering of childhood cancers in Switzerland. The first part of my PhD was focused on global clustering and cluster detection, whereas the second part on disease mapping and spatial regression. During the second part of my PhD I gained expertise on models commonly used in spatial epidemiology, like log-Gaussian Cox processes and the Besag-York-Mollie model. 
 
 <p align="center">
-  <img src="/images/CNStumours.png" width="350" title = "Childhood CNS tumours">
+  <img src="images/CNStumours.png" width="350" title = "Childhood CNS tumours">
 </p>
 
 #### Grants 

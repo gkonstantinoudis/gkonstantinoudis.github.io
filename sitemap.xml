@@ -17,6 +17,10 @@
   </url>
   
   <url>
+    <loc>/research/</loc>
+  </url>
+  
+  <url>
     <loc>/code/</loc>
   </url>
   
@@ -70,10 +74,6 @@
   
   <url>
     <loc>/docs/geomed/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
   </url>
   
   <url>

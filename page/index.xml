@@ -27,6 +27,15 @@ Heading 4  First item Second item   Nested unordered item  Third item Nested ord
     </item>
     
     <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Estimating the heat-related burden of diabetes and health co-benefits of climate policy More than 3 million people were living with diabetes in England in 2019, and it is projected that this number will increase over the next 25 years. Through this project, I will calculate number of deaths, hospital admissions and costs to NHS attributable to exposure to higher temperatures among people with diabetes. I will evaluate future costs and number of hospital admissions and deaths using different temperature rise scenarios.</description>
+    </item>
+    
+    <item>
       <title>Code</title>
       <link>/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -67,18 +76,9 @@ GeoSwiss Tools for geocoding address in Switzerland. The package takes addresses
       
       <guid>/publications/</guid>
       <description>[2023]
-Konstantinoudis G, Hauser A, Riou J. Bayesian ensemble modelling to monitor excess deaths during summer 2022 in Switzerland. arXiv (2023). [https://arxiv.org/abs/2308.15251](https://arxiv.org/abs/2308.15251.
+Konstantinoudis G, Hauser A, Riou J. Bayesian ensemble modelling to monitor excess deaths during summer 2022 in Switzerland. arXiv (2023). https://arxiv.org/abs/2308.15251.
 Konstantinoudis G, Cameletti M, Gomez-Rubio V, Leon-Gómez I, Pirani M, Baio G, Larrauri A, Riou J, Egger M, Vineis P, Blangiardo M. A workflow for estimating and visualising excess mortality during the COVID-19 pandemic. The R Journal (2023). https://doi.org/10.32614/RJ-2023-055.
 Riou J, Hauser A, Fesser A, Althaus CL, Egger M, Konstantinoudis G.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/</guid>
-      <description>Estimating the heat-related burden of diabetes and health co-benefits of climate policy More than 3 million people were living with diabetes in England in 2019, and it is projected that this number will increase over the next 25 years. Through this project, I will calculate number of deaths, hospital admissions and costs to NHS attributable to exposure to higher temperatures among people with diabetes. I will evaluate future costs and number of hospital admissions and deaths using different temperature rise scenarios.</description>
     </item>
     
     <item>

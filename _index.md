@@ -1,6 +1,6 @@
 ##### About
 
-<img style="float: right; padding-left: 7%; padding-bottom: 7%; padding-top: 5%;" src="/images/me2.png" width="330"/>
+<img style="float: right; padding-left: 7%; padding-bottom: 7%; padding-top: 5%;" src="images/me2.png" width="330"/>
 
 I am an Imperial Research College Fellow at [MRC Centre for Environment
 and Health](https://www.environment-health.ac.uk/) at Imperial College
@@ -22,9 +22,7 @@ group](https://www.ispm.unibe.ch/research/research_groups/environmental_and_spat
 headed by [Dr Ben
 Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html).
 Also, I obtained an MSc in Biostatistics at the University of Glasgow
-and BSc in Mathematics at the Aristotle University of Thessaloniki.
-
-<br>
+and BSc in Mathematics at the Aristotle University of Thessaloniki. <br>
 
 ##### Education
 

@@ -3,7 +3,7 @@ title: Home
 menu: 
   main:
 weight: -1
-output: md_document
+output: html_document
 --- 
    
 ##### About

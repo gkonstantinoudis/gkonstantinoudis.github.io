@@ -27,6 +27,16 @@ Heading 4  First item Second item   Nested unordered item  Third item Nested ord
     </item>
     
     <item>
+      <title>Home</title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>I am an Imperial Research College Fellow at MRC Centre for Environment and Health at Imperial College London, working on the impacts of temperature on health and methods for estimating excess mortality. My group is the Environmental and Health Statistics group headed by Prof Marta Blangiardo.
+Before that, I was an MRC Skills Development Research Fellow at the Department of Epidemiology and Biostatistics, part of the MRC Centre for Environment and Health at Imperial College London.</description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
